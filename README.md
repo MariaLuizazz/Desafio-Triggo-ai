@@ -1,2 +1,4 @@
 # Desafio-Triggo-ai
-olá!, me chamo  Maria Luiza sou estudante da ESPM e estou cursando Ciência de Dados Negôcio. Este repositório foi criado com o intuito de apresentar todos os passos e detalhamento da resolução do teste pratico proposto pela Triggo.
+
+Olá! Meu nome é Maria Luiza, sou estudante de Ciência de Dados e Negócios na ESPM.
+Este repositório foi criado com o objetivo de apresentar, de forma clara e estruturada, todas as etapas de desenvolvimento e análise referentes à resolução do teste prático proposto pela Triggo.ai.
